@@ -1,1 +1,1 @@
-print('main menuu')
+print('main menuiiu')
